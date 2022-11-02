@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="127b3f88-1bdb-4e9e-b9c4-bb9aa3df3f40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/GreedyPrimsMST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GreedySelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GreedySelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GreedyPrimsMST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GreedyPrimsMST.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,11 +76,19 @@
       <option name="project" value="LOCAL" />
       <updated>1667339528834</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Java program: GreedyPrimsMST.java">
+      <created>1667349818325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667349818325</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Java program: GreedySelectionSort.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: GreedySelectionSort.java" />
+    <MESSAGE value="Added Java program: GreedyPrimsMST.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: GreedyPrimsMST.java" />
   </component>
 </project>

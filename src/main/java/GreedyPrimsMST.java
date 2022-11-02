@@ -1,5 +1,23 @@
+/* Java program to demonstrate
+* Minimum Spanning Tree algorithm,
+* that is kind of Greedy algorithm.
+* The Prim's algorithm will be used.
+* The steps for implementing
+* Prim's algorithm are as follows.
+* 1. Initialize the Minimum Spanning Tree
+*    with a vertex chosen at random.
+* 2. Find all the edges that
+*    connect the tree to new vertices,
+*    find the minimum
+*    and add it to the tree.
+* 3. Keep repeating step 2
+*    until the Minimum Spanning Tree
+*    is completely structured. */
+
+// Importing required class.
 import java.util.Arrays;
 
+// Main class.
 public class GreedyPrimsMST {
 
     public void Prim(int[][] G, int V) {
