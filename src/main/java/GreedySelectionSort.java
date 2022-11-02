@@ -5,7 +5,9 @@
 * from an unsorted list in each iteration
 * and places that element
 * at the beginning of the
-* unsorted list within recursively. */
+* unsorted list within iteratively.
+* The time complexity
+* of this program is O(n*n) */
 
 // Importing required class.
 import java.util.Arrays;
