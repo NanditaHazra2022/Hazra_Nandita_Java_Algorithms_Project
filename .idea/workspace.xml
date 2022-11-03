@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="127b3f88-1bdb-4e9e-b9c4-bb9aa3df3f40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DynPrgFloydWarshall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DynPrgFloydWarshall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DynPrgFloydWarshall.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667366191253</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Java program: DynPrgFloydWarshall.java">
+      <created>1667377856207</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667377856207</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -121,6 +128,7 @@
     <MESSAGE value="Added Java program: GreedyPrimsMST.java" />
     <MESSAGE value="Modified Java program: GreedyPrimsMST.java to add comments." />
     <MESSAGE value="Added Java program: GreedyKruskalMST.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: GreedyKruskalMST.java" />
+    <MESSAGE value="Added Java program: DynPrgFloydWarshall.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: DynPrgFloydWarshall.java" />
   </component>
 </project>
