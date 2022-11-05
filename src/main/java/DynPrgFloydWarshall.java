@@ -58,6 +58,9 @@ public class DynPrgFloydWarshall
         }   // End of outer for loop block.
 
         // Calling method to print matrix.
+        System.out.println(
+                "The shortest path between all the pairs of vertices: "
+        );
         printMatrix(matrixA1);
 
     }   // End of algorithm implementation block.
@@ -105,11 +108,11 @@ public class DynPrgFloydWarshall
                 { INF, INF, 2, 0 } };
 
         // Creating object of main class.
-        DynPrgFloydWarshall d
+        DynPrgFloydWarshall dpFW
                 = new DynPrgFloydWarshall();
 
         // Calling method to implement Floyd-Warshall algorithm
-        d.algoFloydWarshall(matrixA0);
+        dpFW.algoFloydWarshall(matrixA0);
 
     }   // End of execution thread block.
 
