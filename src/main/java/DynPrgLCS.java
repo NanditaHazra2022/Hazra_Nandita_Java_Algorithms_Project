@@ -84,8 +84,8 @@ public class DynPrgLCS
     {   // Start of execution thread block.
 
         // Declaring and initializing two sequences.
-        String S1 = "ACADBAB";
-        String S2 = "BBCBADA";
+        String S1 = "ACEAFDBAG";
+        String S2 = "BFGCBAEDA";
 
         // Storing the length of sequences.
         int l1 = S1.length();

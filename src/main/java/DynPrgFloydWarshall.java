@@ -1,5 +1,5 @@
 /* Java program to demonstrate
-* Dynamic Programming using
+* dynamic programming using
 * Floyd-Warshall algorithm,
 * an algorithm
 * for finding the shortest path
@@ -16,7 +16,7 @@ public class DynPrgFloydWarshall
     final static int INF = 999999999, VER = 4;  // INF is short for infinity and VER is short for vertex.
 
     // Method to implement Floyd-Warshall algorithm.
-    void floydWarshall(int[][] matrixA0)
+    void algoFloydWarshall(int[][] matrixA0)
     {   // Start of algorithm implementation block.
 
         // Two dimensional array declaration.
@@ -104,8 +104,12 @@ public class DynPrgFloydWarshall
                 { INF, 1, 0, INF },
                 { INF, INF, 2, 0 } };
 
-        DynPrgFloydWarshall d = new DynPrgFloydWarshall();
-        d.floydWarshall(matrixA0);
+        // Creating object of main class.
+        DynPrgFloydWarshall d
+                = new DynPrgFloydWarshall();
+
+        // Calling method to implement Floyd-Warshall algorithm
+        d.algoFloydWarshall(matrixA0);
 
     }   // End of execution thread block.
 

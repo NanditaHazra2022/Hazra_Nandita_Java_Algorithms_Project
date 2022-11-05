@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="127b3f88-1bdb-4e9e-b9c4-bb9aa3df3f40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DynPrgLCS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GreedyFordFulkerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GreedyHuffmanCoding.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DynPrgFloydWarshall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DynPrgFloydWarshall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DynPrgLCS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DynPrgLCS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +41,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DynPrgLCS">
+  <component name="RunManager" selected="Application.GreedyFordFulkerson">
     <configuration name="DynPrgFloydWarshall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DynPrgFloydWarshall" />
       <module name="Hazra_Nandita_Java_Algorithms_Project" />
@@ -53,6 +56,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GreedyFordFulkerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GreedyFordFulkerson" />
+      <module name="Hazra_Nandita_Java_Algorithms_Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreedyHuffmanCoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GreedyHuffmanCoding" />
+      <module name="Hazra_Nandita_Java_Algorithms_Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GreedyKruskalMST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GreedyKruskalMST" />
       <module name="Hazra_Nandita_Java_Algorithms_Project" />
@@ -60,27 +77,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreedyPrimsMST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GreedyPrimsMST" />
-      <module name="Hazra_Nandita_Java_Algorithms_Project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GreedySelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GreedySelectionSort" />
-      <module name="Hazra_Nandita_Java_Algorithms_Project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GreedyFordFulkerson" />
+        <item itemvalue="Application.GreedyHuffmanCoding" />
         <item itemvalue="Application.DynPrgLCS" />
         <item itemvalue="Application.DynPrgFloydWarshall" />
         <item itemvalue="Application.GreedyKruskalMST" />
-        <item itemvalue="Application.GreedyPrimsMST" />
-        <item itemvalue="Application.GreedySelectionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667453954265</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added Java program: DynPrgLCS.java">
+      <created>1667530388292</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667530388292</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -145,6 +155,7 @@
     <MESSAGE value="Added Java program: GreedyKruskalMST.java" />
     <MESSAGE value="Added Java program: DynPrgFloydWarshall.java" />
     <MESSAGE value="Modified Java program: DynPrgFloydWarshall.java to remove warnings in the code and added comments." />
-    <option name="LAST_COMMIT_MESSAGE" value="Modified Java program: DynPrgFloydWarshall.java to remove warnings in the code and added comments." />
+    <MESSAGE value="Added Java program: DynPrgLCS.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: DynPrgLCS.java" />
   </component>
 </project>
