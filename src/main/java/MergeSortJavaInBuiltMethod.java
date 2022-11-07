@@ -36,20 +36,30 @@ public class MergeSortJavaInBuiltMethod
         /* Using for loop to take
          * input of elements
          * to be sorted. */
+        System.out.println("Input collection of words to be sorted.");
         for (int i = 0;
              i < n;
              i++) {
-            System.out.println("Input word " + i + "-> ");
+            System.out.println("Input word "
+                    + (i+1)
+                    + "-> ");
             arr.add(i, input.next());
         }
 
-        System.out.println("\nWords to be sorted as collection -> ");
-        System.out.println(arr);
+        // Printing the collection of unsorted words on output console.
+        System.out.println(
+                "\nWords to be sorted as collection: "
+                        + arr
+        );
 
         // Calling the Java in-built method for sorting.
         Collections.sort(arr);
-        System.out.println("\nSorted words as collection -> ");
-        System.out.println(arr);
+
+        // Printing the sorted collection of words on output console.
+        System.out.println(
+                "\nSorted words as collection: "
+                        + arr
+        );
 
     } // End of execution thread block.
 
