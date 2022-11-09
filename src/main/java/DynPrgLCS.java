@@ -21,6 +21,7 @@ public class DynPrgLCS
              i <= l1;
              i++)
         {   // Start of outer for loop block.
+
             for (int j = 0;
                  j <= l2;
                  j++)
@@ -84,8 +85,8 @@ public class DynPrgLCS
     {   // Start of execution thread block.
 
         // Declaring and initializing two sequences.
-        String S1 = "ACEAFDBAG";
-        String S2 = "BFGCBAEDA";
+        String S1 = "KINDNESS";
+        String S2 = "UNKIND";
 
         // Storing the length of sequences.
         int l1 = S1.length();
