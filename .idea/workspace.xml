@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="127b3f88-1bdb-4e9e-b9c4-bb9aa3df3f40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DynPrgClimbStairsWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DynPrgCuttingRod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DynPrgClimbStairsWays">
+  <component name="RunManager" selected="Application.DynPrgCuttingRod">
     <configuration name="BinarySearchJavaInBuiltMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearchJavaInBuiltMethod" />
       <module name="Hazra_Nandita_Java_Algorithms_Project" />
@@ -48,6 +48,13 @@
     </configuration>
     <configuration name="DynPrgClimbStairsWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DynPrgClimbStairsWays" />
+      <module name="Hazra_Nandita_Java_Algorithms_Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynPrgCuttingRod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynPrgCuttingRod" />
       <module name="Hazra_Nandita_Java_Algorithms_Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,20 +74,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSortJavaInBuiltMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeSortJavaInBuiltMethod" />
-      <module name="Hazra_Nandita_Java_Algorithms_Project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DynPrgCuttingRod" />
         <item itemvalue="Application.DynPrgClimbStairsWays" />
         <item itemvalue="Application.DynPrgLCS" />
         <item itemvalue="Application.HuffmanCoding" />
         <item itemvalue="Application.BinarySearchJavaInBuiltMethod" />
-        <item itemvalue="Application.MergeSortJavaInBuiltMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667983023540</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Added Java program: DynPrgClimbStairsWays.java">
+      <created>1668981920608</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1668981920608</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -233,6 +240,7 @@
     <MESSAGE value="Added Java program: BinarySearchJavaInBuiltMethod.java" />
     <MESSAGE value="Added Java program: HuffmanCoding.java" />
     <MESSAGE value="Modified Java program: DynPrgLCS.java to remove typos." />
-    <option name="LAST_COMMIT_MESSAGE" value="Modified Java program: DynPrgLCS.java to remove typos." />
+    <MESSAGE value="Added Java program: DynPrgClimbStairsWays.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: DynPrgClimbStairsWays.java" />
   </component>
 </project>
